@@ -1,9 +1,7 @@
 # Poker application
 
-This is the reference application for the poker game that is being developed as part of the agile software engineering training.
 
 ## Initial setup
-- This repository is supposed to be forked for your training so that you can share code changes among your training team
 - The code requires at least Java 8 and Maven 3 to compile and package
 - If you use Eclipse as an IDE, import the project as "Existing Maven project"
 - The project is a self-contained Spring Boot project
